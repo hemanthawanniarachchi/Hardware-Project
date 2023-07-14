@@ -1,6 +1,6 @@
-# Richtek Computer Solution's System
+# Automated Wire Cutting and Stripping Machine
 
-**This is a standalone application that is developed by myself using the technologies as follows.,**<br>
+**Introduction**<br>
 There are so many fundamental problems that we have identified in underdeveloped small-scale
 industries. So nowadays lack of labor is a major problem and it is hard to find trained workers. Our
 focus was on the wire cutting industry. Hardware shops and electronic labs can be taken as
