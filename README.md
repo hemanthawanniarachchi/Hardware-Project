@@ -22,4 +22,8 @@ economical for cutting various lengths of wires which are required for producing
 So, we try to make a cost-effective Automatic Wire Cutting and Stripping Machine. This machine
 mainly helpful for electronic labs and hardware shops.
 
-https://github.com/hemanthawanniarachchi/Hardware-Project/blob/main/final%20project.mp4
+
+
+
+https://github.com/hemanthawanniarachchi/Hardware-Project/assets/83197833/3f6a526a-01b9-4a20-8cde-18eaf5d6350a
+
